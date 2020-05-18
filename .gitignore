@@ -1,2 +1,8 @@
 # Project exclude paths
 /node_modules/
+
+.idea/
+.cache/
+.tscache/
+dist/
+tmp/
